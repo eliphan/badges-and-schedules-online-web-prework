@@ -3,7 +3,7 @@ def badge_maker(name)
 end
 
 def batch_badge_creator(speaker)
-  speaker = [Esdger, Ada, Charles, Alan]
+  speaker = ["Edsger", "Ada", "Charles", "Alan, Grace, Linus, Matz]
   
   
 def assign_room
