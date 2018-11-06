@@ -8,5 +8,4 @@ def batch_badge_creator(speaker)
 end
   
 def assign_room(speaker)
-  speaker = ["Edsger", "Ada", "Charles", "Alan", "Grace", "Linus", "Matz"]
   speaker.each_index
