@@ -7,4 +7,3 @@ def batch_badge_creator(speaker)
   return speaker
 end
   
-def assign_room
